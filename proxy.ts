@@ -1,6 +1,7 @@
 import { auth } from './app/auth';
 
 export default auth((req) => {
+  
 });
 
 export const config = {
